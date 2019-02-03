@@ -1,0 +1,28 @@
+{
+  "name": "@kirpa/nested-router-switch",
+  "version": "0.0.1",
+  "description": "Router for nested react routing",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KirpaK/nested-router-switch.git"
+  },
+  "keywords": [
+    "react",
+    "react-router"
+  ],
+  "author": "KirpaK",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KirpaK/nested-router-switch/issues"
+  },
+  "homepage": "https://github.com/KirpaK/nested-router-switch#readme",
+  "dependencies": {
+    "prop-types": "^15.6.2",
+    "react": "^16.7.0",
+    "react-router": "^4.3.1"
+  }
+}
