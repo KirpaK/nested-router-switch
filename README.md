@@ -24,8 +24,7 @@ $ npm install @kirpa/nested-router-switch -g
 ```javascript
 import React from "react";
 import { Route, Redirect, Switch } from "react-router";
-import NestedSwitch from "../src/";
-import { NestedRouter } from "../src/";
+import NestedSwitch, { NestedRouter } from "@kirpa/nested-router-switch";
 
 const ProductRouter = props => (
   <NestedRouter {...props}>
