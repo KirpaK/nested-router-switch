@@ -24,7 +24,7 @@ export const NestedRouterSwitch = ({ children, route }) => {
 };
 
 NestedRouterSwitch.propTypes = {
-  route: PropTypes.string
+  route: PropTypes.string.isRequired
 };
 
 export default NestedRouterSwitch;
