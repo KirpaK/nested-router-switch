@@ -1,6 +1,6 @@
 {
   "name": "@kirpa/nested-router-switch",
-  "version": "0.0.3",
+  "version": "1.0.1",
   "description": "Router for nested react routing",
   "main": "dist/main.js",
   "scripts": {
